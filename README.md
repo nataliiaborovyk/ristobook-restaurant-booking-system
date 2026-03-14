@@ -311,6 +311,3 @@ Il sistema può essere esteso con:
 
 ---
 
-#  Autore
-
-Progetto sviluppato come esercizio di progettazione e implementazione di sistemi informativi.
